@@ -1,25 +1,25 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1562904937248" stop="1562905013665">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1562906069490" stop="1562906136569">
   <name>test_login</name>
   <labels/>
   <test-cases>
-    <test-case start="1562904937248" status="passed" stop="1562904988516">
+    <test-case start="1562906069490" status="passed" stop="1562906112384">
       <name>TestLogin.test_login[13800001111-123456]</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="13552-MainThread"/>
+        <label name="thread" value="13628-MainThread"/>
         <label name="host" value="DESKTOP-TLCF3G6"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1562904988518" status="passed" stop="1562905013665">
+    <test-case start="1562906112387" status="passed" stop="1562906136569">
       <name>TestLogin.test_login[13800001112-0]</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="13552-MainThread"/>
+        <label name="thread" value="13628-MainThread"/>
         <label name="host" value="DESKTOP-TLCF3G6"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
