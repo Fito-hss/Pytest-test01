@@ -1,10 +1,10 @@
 import os
 import sys
-
+sys.path.append(os.getcwd())
 from page.page_login import PageLogin
 from tool.read_yaml import read
 
-sys.path.append(os.getcwd())
+
 
 import pytest
 
